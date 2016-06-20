@@ -1,0 +1,17 @@
+{
+  "name": "generator-demo-david",
+  "version": "0.0.1",
+  "description": "test whether generator works",
+  "main": "index.js",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "David Guan",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.23.4"
+  }
+}
